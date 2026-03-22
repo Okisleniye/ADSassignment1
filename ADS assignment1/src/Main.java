@@ -46,10 +46,10 @@ public class Main {
     }
 
     // Task 7
-    public static void reverseOutput(int n, Scanner sc) {
+    public static void reverse(int n, Scanner sc) {
         if (n == 0) return;
         int num = sc.nextInt();
-        reverseOutput(n - 1, sc);
+        reverse(n - 1, sc);
         System.out.print(num + " ");
     }
 
