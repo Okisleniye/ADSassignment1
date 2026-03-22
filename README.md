@@ -1,12 +1,8 @@
 # Assignment 1 - Recursion
 
 ## Student Information
-* **Name:** Fariddin
-* **Group:** [Укажи свою группу]
-
----
-
-## Part 1. Recursion with Numbers
+* **Name:** Fariddin Dautov
+* **Group:** [IT-2504]
 
 ### Task 1. Print Digits of a Number
 * **Description:** Takes an integer as input and prints every digit of the given number on a separate line.
@@ -32,9 +28,6 @@
 * **Output Screenshot:**
 ![Task 4 Output](images/task4.png)
 
----
-
-## Part 2. Recursion with Sequences
 
 ### Task 5. Fibonacci Number
 * **Description:** Finds the n-th Fibonacci number.
@@ -53,10 +46,6 @@
 * **Explanation:** Leverages the execution call stack by reading a value, recurring for the next values, and printing it on the way back down.
 * **Output Screenshot:**
 ![Task 7 Output](images/task7.png)
-
----
-
-## Part 3. Recursion with Strings
 
 ### Task 8. Check Digits in String
 * **Description:** Checks if a string contains only digits.
